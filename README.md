@@ -4,7 +4,7 @@ STEMMechanics brings creativity to life by developing engaging resources and pro
 
 ## Participating in the community
 
-🫂 We aim to create a welcoming and inclusive community. Please note that STEMMechanics open source projects are governed by our code of conduct.
+🫂 We aim to create a welcoming and inclusive community. Please note that STEMMechanics open source projects are governed by our [code of conduct](code-of-conduct.md).
 
 ## Get in touch!
 
