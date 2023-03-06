@@ -1,4 +1,4 @@
-<p align="center"><img src="stemmechanics_banner.png"></p>
+<p align="center"><img src="stemmechanics_logo.png"></p>
 
 STEMMechanics brings creativity to life by developing engaging resources and programs. Powered by open source by an amazing community.
 
