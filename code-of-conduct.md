@@ -18,6 +18,8 @@ Examples of behavior that contributes to a positive environment for our
 community include:
 
 * Demonstrating empathy and kindness toward other people
+* Assuming positive intent while recognising that differences in culture,
+  language and communication style can lead to misunderstandings
 * Being respectful of differing opinions, viewpoints, and experiences
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes,
@@ -33,6 +35,8 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Retaliating against anyone who reports a concern or participates in an
+  investigation
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -50,8 +54,10 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
+This Code of Conduct applies to all users, contributors and participants in
+STEMMechanics projects, workshops, events and community platforms. It also
+applies when an individual is officially representing the community in public
+spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
@@ -60,7 +66,9 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-hello@stemmechanics.com.au.
+[conduct@stemmechanics.com.au](mailto:conduct@stemmechanics.com.au). Current
+members of the Code of Conduct team are listed on the
+[STEMMechanics website](https://stemmechanics.com.au/code-of-conduct).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
