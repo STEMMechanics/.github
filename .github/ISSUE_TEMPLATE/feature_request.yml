@@ -1,0 +1,28 @@
+name: Suggest an idea
+description: Share an improvement or a new feature
+title: "[Idea]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas from beginners and experienced contributors are both welcome. Please do not include personal information.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is your idea?
+      description: Explain it in your own words.
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Who would it help, and how?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Is there another way to solve this?
+      description: It is okay to leave this blank.
