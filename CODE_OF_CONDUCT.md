@@ -1,5 +1,10 @@
 # Contributor Covenant Code of Conduct
 
+STEMMechanics welcomes young people, families, educators, beginners and
+experienced creators. This page explains how we keep our online and in-person
+spaces friendly and safe. If any wording is difficult to understand, you can
+ask a parent, carer, teacher or community leader to help explain it.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -17,27 +22,27 @@ diverse, inclusive, and healthy community.
 Examples of behavior that contributes to a positive environment for our
 community include:
 
-* Demonstrating empathy and kindness toward other people
-* Assuming positive intent while recognising that differences in culture,
+- Demonstrating empathy and kindness toward other people
+- Assuming positive intent while recognising that differences in culture,
   language and communication style can lead to misunderstandings
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
+- Being respectful of differing opinions, viewpoints, and experiences
+- Giving and gracefully accepting constructive feedback
+- Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
+- Focusing on what is best not just for us as individuals, but for the
   overall community
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or
+- The use of sexualized language or imagery, and sexual attention or
   advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
+- Trolling, insulting or derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or email
   address, without their explicit permission
-* Retaliating against anyone who reports a concern or participates in an
+- Retaliating against anyone who reports a concern or participates in an
   investigation
-* Other conduct which could reasonably be considered inappropriate in a
+- Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
 ## Enforcement Responsibilities

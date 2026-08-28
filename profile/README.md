@@ -17,7 +17,16 @@ Each STEMMechanics project has its own licensing terms. Please check the `LICENS
 
 ## Participating in the community
 
-🫂 We aim to create a welcoming and inclusive community across our projects, workshops and community platforms. Participation is governed by our [code of conduct](../code-of-conduct.md).
+🫂 We aim to create a welcoming and inclusive community across our projects,
+workshops and community platforms. Young people, first-time coders, teachers,
+families and experienced developers are all welcome. You can help with code,
+ideas, testing, documentation or simply by reporting something that does not
+work.
+
+Start with our [contribution guide](../CONTRIBUTING.md), and please follow our
+[Code of Conduct](../CODE_OF_CONDUCT.md). If you are aged under 18, protect your
+privacy and ask a trusted adult for help before sharing information or
+contacting somebody privately.
 
 ## Stay connected
 
