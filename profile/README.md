@@ -1,36 +1,62 @@
-<p align="center"><img src="https://github.com/STEMMechanics/.github/blob/main/stemmechanics-logo.png" width="476" height="133"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/STEMMechanics/.github/main/stemmechanics-logo.png" alt="STEMMechanics" width="467">
+</p>
 
-STEMMechanics delivers hands-on STEM experiences that inspire curiosity through engineering, coding and creative technology. Based in Cairns, Queensland, we run engaging workshops for schools, organisations and community groups.
+<p align="center">
+  <strong>Hands-on STEM experiences through engineering, coding and creative technology.</strong><br>
+  Cairns, Queensland, Australia
+</p>
 
-## Why we're on GitHub
+<p align="center">
+  <a href="https://stemmechanics.com.au">Our Website</a> ·
+  <a href="https://stemmech.com.au/discord">Discord</a> ·
+  <a href="https://github.com/STEMMechanics/.github/blob/main/CONTRIBUTING.md">Contribute</a>
+</p>
 
-Technology is part of how we teach, experiment and build. We use GitHub to develop our platforms in the open, share tools that others can learn from and give our community a place to contribute. Our repositories include the software behind our website and STEMCraft community, along with educational projects created for coding, robotics and digital-literacy programs.
+STEMMechanics creates workshops, software, online communities and learning resources for schools, organisations and community groups. We use GitHub to build in the open, share useful tools and invite people to learn alongside us.
 
-### Featured projects
+## What we build
 
-- 🌐 [STEMMechanics website](https://github.com/STEMMechanics/website) — the source code for our website and workshop platform.
-- ⛏️ [STEMCraft](https://github.com/STEMMechanics/STEMCraft) — the Minecraft server plugin powering our online community, educational experiences and custom gameplay.
+### 🛠️ [Craftarr](https://github.com/STEMMechanics/Craftarr)
+
+An open-source web panel for running, monitoring, backing up and automating Minecraft servers. Craftarr is also used internally to power STEMCraft.
+
+<p align="center">
+  <a href="https://github.com/STEMMechanics/Craftarr">
+    <img src="https://raw.githubusercontent.com/STEMMechanics/Craftarr/main/assets/screenshots/servers.png" alt="Craftarr server management dashboard" width="1000">
+  </a>
+</p>
+<p align="center"><em>Minecraft server management, brought together in one place.</em></p>
+
+### ⛏️ [STEMCraft](https://github.com/STEMMechanics/STEMCraft)
+
+The core Paper plugin and API behind our Minecraft community, educational experiences and custom gameplay.
+
+### 🌐 [Our Website](https://github.com/STEMMechanics/website)
+
+The public hub for STEMMechanics programs, workshops and resources.
+
+<details>
+  <summary>See STEMCraft in action</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/STEMMechanics/.github/main/stemcraft-steve-library.png" alt="A STEMCraft library and learning space" width="1000">
+  </p>
+</details>
+
+## Get involved
+
+You can help with code, documentation, artwork, testing, ideas or bug reports. New contributors are welcome, and each project may have additional instructions in its own repository.
+
+- [Contribution guide](https://github.com/STEMMechanics/.github/blob/main/CONTRIBUTING.md)
+- [Getting help](https://github.com/STEMMechanics/.github/blob/main/SUPPORT.md)
+- [Report a security problem](https://github.com/STEMMechanics/.github/security/policy)
+- [Code of Conduct](https://github.com/STEMMechanics/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Licensing
 
-Each STEMMechanics project has its own licensing terms. Please check the `LICENSE` file in a repository before using, modifying or redistributing its contents. Some projects are released under open-source licences—such as [STEMCraft](https://github.com/STEMMechanics/STEMCraft), which uses the GNU General Public License v3.0—while repositories without a licence do not grant permission for reuse. Unless a project states otherwise, its documentation, artwork, branding and other assets remain the property of their respective owners.
+Each project has its own licence. Check its `LICENSE` file before using, modifying or redistributing code or assets. Unless a project says otherwise, STEMMechanics branding and artwork remain reserved.
 
-## Participating in the community
-
-🫂 We aim to create a welcoming and inclusive community across our projects,
-workshops and community platforms. Young people, first-time coders, teachers,
-families and experienced developers are all welcome. You can help with code,
-ideas, testing, documentation or simply by reporting something that does not
-work.
-
-Start with our [contribution guide](../CONTRIBUTING.md), and please follow our
-[Code of Conduct](../CODE_OF_CONDUCT.md). If you are aged under 18, protect your
-privacy and ask a trusted adult for help before sharing information or
-contacting somebody privately.
-
-## Stay connected
-
-Explore our workshops and learn more about what we do at [stemmechanics.com.au](https://stemmechanics.com.au).
+## Find us online
 
 - [Discord](https://stemmech.com.au/discord)
 - [Facebook](https://www.facebook.com/stemmechanics)

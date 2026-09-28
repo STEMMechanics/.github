@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Get help with a project
+    url: https://github.com/STEMMechanics/.github/blob/main/SUPPORT.md
+    about: Find the right place for questions about Craftarr, STEMCraft or the website.
+  - name: Join the community
+    url: https://stemmech.com.au/discord
+    about: Ask questions and connect with the STEMMechanics community on Discord.
   - name: Report a security problem privately
     url: https://github.com/STEMMechanics/.github/security/policy
     about: Please do not publish possible security problems in an issue.
